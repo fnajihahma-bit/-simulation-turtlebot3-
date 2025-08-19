@@ -2,6 +2,8 @@
 
 ## Task 1: Installation of ROS2 Simulation using TurtleBot3
 
+By: Fatin Najihah Binti Mat Ali (2024853488)
+
 ---
 
 ## Directory Structure
@@ -137,6 +139,13 @@ ros2 topic echo /odom --once
   ```bash
   source /opt/ros/humble/setup.bash
   ```
+
+![ROS 2 Version](img/ros2 --version.png)
+![Gazebo Spawn](img/gazebo_spawn.png)
+![RViz2 LaserScan](img/rviz2_laserscan.png)
+![Teleop Running](img/teleop_running.png)
+![Topic List](img/topic_list.png)
+
 
 ---
 
