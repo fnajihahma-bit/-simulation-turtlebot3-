@@ -140,12 +140,5 @@ ros2 topic echo /odom --once
   source /opt/ros/humble/setup.bash
   ```
 
-![ROS 2 Version](img/ros2 --version.png)
-![Gazebo Spawn](img/gazebo_spawn.png)
-![RViz2 LaserScan](img/rviz2_laserscan.png)
-![Teleop Running](img/teleop_running.png)
-![Topic List](img/topic_list.png)
-
-
 ---
 
